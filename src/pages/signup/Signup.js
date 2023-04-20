@@ -1,7 +1,7 @@
 import './Signup.css'
 import { Link } from 'react-router-dom'
 import React, { useState } from 'react'
-import Google from './Google.png'
+import Google from '../imgs/Google.png'
 
 export default function Signup() {
   const [displayName, setDisplayName] = useState('')
@@ -59,7 +59,6 @@ export default function Signup() {
        <span className='last-line'>Already have an account?</span>
        <Link to="/login" style={linkStyle}>Log in</Link>
        </div>
-    
     </form>
   )
 }

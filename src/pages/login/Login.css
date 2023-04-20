@@ -1,0 +1,25 @@
+.remember{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    color: #0B0E2c;
+   line-height: 20px;
+}
+.forgetLink{
+    color: #0B0E2C;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    width: 122px;
+    height: 20px;
+    margin-left: 130px;
+}
+.input-name{
+    margin-bottom: 20px;
+}
+.signingoogle{
+    cursor: pointer;
+}
