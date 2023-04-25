@@ -1,0 +1,35 @@
+.heading{
+    font-weight: 600;
+}
+.occupationbtn{
+    display: flex;
+}
+.subheadingEmploy{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6f7182;
+    padding-top: 60px;
+}
+.text{
+    align-items: center;
+    padding: 16px;
+    background-color: #ffff;
+    border-radius: 12px;
+    border: 1px solid #EAECF0;
+    width: 151px;
+    height: 94px;
+    box-sizing: border-box;
+    padding: 20px 20px;
+    margin: 20px 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+
+}
